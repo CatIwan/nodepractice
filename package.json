@@ -1,0 +1,14 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+"sass": "sass --watch --update --style=compressed CSS:CSS"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.60.0"
+  }
+}
